@@ -70,6 +70,9 @@ Speedup = T(1 thread) / T(n threads)
 | 6 | 0.0592 |
 | 8 | 0.0594 |
 
+### Speedup Interpretation
+
+⚡ The speedup curve shows **near-linear gains up to 4 threads**, with performance leveling off as the algorithm becomes **memory-bandwidth bound** — a classic HPC scaling pattern.
 
 ![Speedup Graph](speedup.png)
 
