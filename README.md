@@ -70,6 +70,9 @@ Speedup = T(1 thread) / T(n threads)
 | 6 | 0.0592 |
 | 8 | 0.0594 |
 
+
+![Speedup Graph](speedup.png)
+
 ---
 
 ## 🔬 Parallel Performance Insights
