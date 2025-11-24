@@ -94,5 +94,3 @@ This project demonstrates core concepts in HPC:
 - Explore **SIMD vectorization**  
 - Compare **static vs dynamic OpenMP scheduling**  
 - Benchmark larger problem sizes (N > 1000)
-
->>>>>>> 3504c2c (Update README formatting)
