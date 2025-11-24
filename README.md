@@ -16,7 +16,7 @@ This project implements a **parallelized matrix multiplication kernel** in C usi
   - Cache locality  
   - Compute–memory bottlenecks  
 
----
+--- 
 
 ## 📁 Project Structure
 ```
